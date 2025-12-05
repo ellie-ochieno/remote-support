@@ -1,8 +1,6 @@
 
   # RemotCyberHelp
 
-  This is a code bundle for RemotCyberHelp. The original project is available at https://www.figma.com/design/lFR9Wmz1XPXafVUvSm3ZqM/RemotCyberHelp.
-
   # RemotCyberHelp - Technology Support Platform
 
   A comprehensive technology support platform built with React, TypeScript, and MongoDB, providing remote cybersecurity and tech support services for individuals and small businesses.
